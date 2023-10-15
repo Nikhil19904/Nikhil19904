@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A Passionate Coding Enthusiast from Delhi </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> </p>
+<p align="left"> <img src="![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/Nikhil19904/Nikhil19904/assets/110816592/e4f6cf0f-139e-4043-b96b-72ee86ac3d16)
+"alt="nikhil19904"  /> </p>
 
 - 🌱 I’m currently learning **Data Structues,Full Stack developmet**
 
