@@ -4,11 +4,11 @@
 
 <h3 align="center">About Me</h3>
 
-. 🌱 I’m currently learning **Data Structues,Full Stack developmet**
-. 🎓 Doing B.Tech(final year) in Information Technology
-. 📧 Reach me at : **nc429529@gmail.com**
-. 👩 Check out my **my-portfolio.nikhil**
-. 😄 Interests: Music, Cricket, and Movies
+- 🌱 I’m currently learning **Data Structues,Full Stack developmet**
+- 🎓 Doing B.Tech(final year) in Information Technology
+- 📧 Reach me at : **nc429529@gmail.com**
+- 👩 Check out my **my-portfolio.nikhil**
+- 😄 Interests: Music, Cricket, and Movies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
