@@ -26,7 +26,7 @@
 
 <h3 align="left">Databases</h3>
 <h3 align="left">Tools</h3>
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">📫Connect With Me</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil19904&show_icons=true&locale=en&layout=compact" alt="nikhil19904" /></p>
 
