@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h4 align="center">A Passionate Coding Enthusiast from Delhi </h4>
-<img align="right alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fmale-programmer-doing-coding-work-9560195&psig=AOvVaw3NqxO4tVcxsPNLN2ZFdp6S&ust=1722240001960000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCr1Z-iyYcDFQAAAAAdAAAAABAE.gif">
+<img align="right alt="Coding" width="400" src="![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/1818671b-3552-4a31-aa4a-4060237f5be0)
+">
 <p align="left"></p>
 
 <h3 align="center">About Me</h3>
