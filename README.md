@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data Structues,Full Stack developmet**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
-- 👩 Check out my **nikhil19904.github.io**
+- 👩 Check out my **Portfoilo Website**
 - 😄 Interests: Music, Cricket, and Movies
 
 <h3 align="left">Connect with me:</h3>
