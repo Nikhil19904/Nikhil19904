@@ -4,7 +4,7 @@
 <p align="left"></p>
 
 
-<h3 align="center">About Me</h3>
+<h3 align="left">📚 About Me</h3>
 
 - 🌱 I’m currently learning **Data Structues,Full Stack developmet**
 - 🎓 Doing B.Tech(final year) in Information Technology
