@@ -12,7 +12,8 @@
 - 👦 Check out my **Portfoilo Website<a href="https://nikhil19904.github.io/my-portfolio.nikhil/">**
 - 😄 Interests: Music, Cricket, and Movies
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🌟 Technologies & Tools:</h2>
+<h4 align="left">Languages</h4>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil" height="30" width="40" /></a>
 <a href="https://instagram.com/suryavanshiji_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryavanshiji_71" height="30" width="40" /></a>
