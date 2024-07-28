@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A Passionate Coding Enthusiast from Delhi </h3>
-
 <p align="left"></p>
 
 <h3 align="center">About Me</h3>
 
 - 🌱 I’m currently learning **Data Structues,Full Stack developmet**
 
-- 📫 How to reach me **nc429529@gmail.com**
-
+- 📫 Reach me at **nc429529@gmail.com**
+- check out my **my-portfolio.nikhil**
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
