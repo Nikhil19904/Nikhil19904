@@ -4,12 +4,12 @@
 <p align="left"></p>
 
 
-<h3 align="left">📚 About Me</h3>
+<h2 align="left">📚 About Me</h2>
 
 - 🌱 I’m currently learning **Data Structues,Full Stack developmet**
-- 🎓 Doing B.Tech(final year) in Information Technology
+- 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
-- 👩 Check out my **my-portfolio.nikhil**
+- 👩 Check out my **https://nikhil19904.github.io/my-portfolio.nikhil/**
 - 😄 Interests: Music, Cricket, and Movies
 
 <h3 align="left">Connect with me:</h3>
