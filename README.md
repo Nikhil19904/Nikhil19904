@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Data Structues,Full Stack developmet**
 
 - 📫 Reach me at **nc429529@gmail.com**
-- check out my **my-portfolio.nikhil**
+- Check out my **my-portfolio.nikhil**
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
