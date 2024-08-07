@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h4 align="center">A Passionate Coding Enthusiast from Delhi </h4>
 
- ![](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600)
+ <p align="center">![](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600)</p>
 
 <p align="left"></p> 
 
