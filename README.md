@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A Passionate Coding Enthusiast from Delhi 
 
- "![](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600) 
+ ![](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600) 
  </h3>
 
 <h2 align="left">📚 About Me</h2>
