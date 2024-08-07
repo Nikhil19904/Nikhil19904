@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h4 align="center">A Passionate Coding Enthusiast from Delhi </h4>
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
-<!-- <img align="right alt="Coding" width="400" src="![Uploading 212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif…]()">
-<p align="left"></p> -->
+
+ <img align="right alt="Coding" width="400" src="![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)">
+<p align="left"></p> 
 
 
 <h2 align="left">📚 About Me</h2>
