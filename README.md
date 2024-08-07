@@ -56,7 +56,7 @@
 		</tr>
 	</table>
 </div>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://1drv.ms/u/c/c8326ff0d5fb93b1/EVdlW27aVTJKl3cuUM0Q5vIBtcl7Wo2cRUYU4kE93ltBiQ?e=ccIlNv.svg" alt="java" width="40" height="40"/> </a>
+
 
 <h3 align="left">Tools</h3>
 <div >
