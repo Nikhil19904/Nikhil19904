@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h4 align="center">A Passionate Coding Enthusiast from Delhi </h4>
-<img align="right alt="Coding" width="400" src="![Uploading 212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif…]()">
-<p align="left"></p>
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+<!-- <img align="right alt="Coding" width="400" src="![Uploading 212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif…]()">
+<p align="left"></p> -->
 
 
 <h2 align="left">📚 About Me</h2>
@@ -9,7 +10,7 @@
 - 💻 I’m currently learning **Data Structues,Full Stack developmet**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
-- 👦 Check out my **[Portfoilo Website](https://nikhil19904.github.io/my-portfolio.nikhil)
+- 👦 Check out my [Portfoilo Website](https://nikhil19904.github.io/my-portfolio.nikhil)
 - 😄 Interests: Music, Cricket, and Movies
 
 <h2 align="left">🌟 Technologies & Tools:</h2>
