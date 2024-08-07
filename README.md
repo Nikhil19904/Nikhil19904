@@ -3,7 +3,7 @@
 
  
 
-<p align="left">![Demo](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600)</p> 
+![](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600)
 
 
 <h2 align="left">📚 About Me</h2>
