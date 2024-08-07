@@ -50,6 +50,16 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://1drv.ms/u/c/c8326ff0d5fb93b1/EVdlW27aVTJKl3cuUM0Q5vIBtcl7Wo2cRUYU4kE93ltBiQ?e=ccIlNv.svg" alt="java" width="40" height="40"/> </a>
 
 <h3 align="left">Tools</h3>
+<div >
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code></td>
+		</tr>
+	</table>
+</div>
 <h2 align="left">📫Connect with Me</h2>
 <h2 align="left">📊 GitHub Stats</h2>
 
