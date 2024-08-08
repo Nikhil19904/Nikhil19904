@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A Passionate Coding Enthusiast from Delhi 
 
- ![](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600) 
+ ![width="300px" height="500px"](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600) 
  </h3>
 
 <h2 align="left">📚 About Me</h2>
@@ -56,7 +56,7 @@
 		</tr>
 	</table>
 </div>
-# 📫Connect with Me
+<h3>Connect With me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-3652872a2) 
 
