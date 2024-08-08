@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👏, I'm Nikhil !</h1>
-<h3 align="center">`*A Passionate Coding Enthusiast from Delhi*`</h3>
+<h3 align="center">A Passionate Coding Enthusiast from Delhi</h3>
 	
 ![Developer](https://github.com/user-attachments/assets/a267e6a6-9001-4ba4-9122-26afa1fc2523)
 
