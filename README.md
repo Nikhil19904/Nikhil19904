@@ -23,7 +23,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
- ![Python](https://img.shields.io/badge/python-23E34F26?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,8 +70,7 @@
 <h3 align="left">Hosting<h3>
 
  ![Netlify](https://img.shields.io/badge/netlify-%2300599C.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23E42.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-23000000?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
- 2300599C
- 230000000
+
 <h3 align ="left">Connect with me</h3>
 
  [![GITHUB](https://img.shields.io/badge/-GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil19904) [![GMAIL](https://img.shields.io/badge/-GMAIL-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
@@ -79,6 +78,8 @@
 
 
 <h3 align="left">Competitive Programming</h3>
+
+ ![LEETCODE](https://img.shields.io/badge/LEETCODE-23E34F26?style=for-the-badge&logo=python&logoColor=ffdd54)![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 
 <h2 align="left">🏆 GitHub Trophies</h2>
