@@ -13,6 +13,8 @@
 - 📧 Reach me at : **nc429529@gmail.com**
 - 👦 Check out my [Portfoilo Website]
 - 😄 Interests: Music, Cricket, and Movies
+---
+  [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <h2 align="left">🌟 Technologies & Tools:</h2>
