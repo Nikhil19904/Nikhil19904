@@ -11,7 +11,7 @@
 - 💻 I’m currently learning **Data Structues,Full Stack developmet**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
-- 👦 Check out my [Portfoilo Website]
+- 👦 Check out my [Portfoilo Website](https://github.com/Nikhil19904/my-portfolio.nikhil)
 - 😄 Interests: Music, Cricket, and Movies
 ---
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
@@ -80,9 +80,6 @@
 <h2 align="left"> 🔝 Top Contributed Repo</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <h2 align="left">📊 GitHub Stats</h2>
 
