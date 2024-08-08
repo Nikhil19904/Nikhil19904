@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👏, I'm Nikhil !</h1>
-<h3 align="center">A Passionate Coding Enthusiast from Delhi</h3>
+<h3 align="center">A Passionate Coding Enthusiast from Delhi
 	
 
-![ezgif-1-c34c51a2d8](https://github.com/user-attachments/assets/953dab41-e681-46d3-8793-80f7c2df1824&center)
+![ezgif-1-c34c51a2d8](https://github.com/user-attachments/assets/953dab41-e681-46d3-8793-80f7c2df1824&)
+</h3>
 
 
 <h2 align="left">📚 About Me</h2>
