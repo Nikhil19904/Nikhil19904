@@ -72,9 +72,12 @@
  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
  
 <h3 align ="left">Connect with me</h3>
+
+ [![GITHUB](https://img.shields.io/badge/-GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil19904)
  
  [![GMAIL](https://img.shields.io/badge/-GMAIL-%232B90D9?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-%232B90D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-3652872a2)
+
 
 <h3 align="left">Competitive Programming</h3>
 
