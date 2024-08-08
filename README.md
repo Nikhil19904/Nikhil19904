@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👏, I'm Nikhil !</h1>
 <h3 align="center">A Passionate Coding Enthusiast from Delhi</h3>
 	
-
- ![Developer](https://github.com/user-attachments/assets/a267e6a6-9001-4ba4-9122-26afa1fc2523)
-
- 
+![Developer](https://github.com/user-attachments/assets/a267e6a6-9001-4ba4-9122-26afa1fc2523)
 
 <h2 align="left">📚 About Me</h2>
 
@@ -19,15 +16,6 @@
 
 <h2 align="left">🌟 Technologies & Tools:</h2>
 <h3 align="left">Languages</h3>
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-23E34F26?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 <div >
 	<table>
 		<tr>
@@ -54,7 +42,6 @@
 	</table>
 </div>
 	
-
 <h3 align="left">Databases</h3>
 <div >
 	<table>
@@ -64,7 +51,6 @@
 		</tr>
 	</table>
 </div>
-
 
 <h3 align="left">Tools</h3>
 <div >
@@ -87,27 +73,19 @@
  [![GITHUB](https://img.shields.io/badge/-GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil19904)[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-%232B90D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-3652872a2)
  [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-%23430098?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_suryavanshi19/) [![GMAIL](https://img.shields.io/badge/-GMAIL-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
 
-
-
 <h3 align="left">Competitive Programming</h3>
 
  ![LEETCODE](https://img.shields.io/badge/LEETCODE-23E34F26?style=for-the-badge&logo=python&logoColor=ffdd54) ![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=white) 
  
-
-
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=nikhil19904&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 <h2 align="left"> 🔝 Top Contributed Repo</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <h2 align="left">📊 GitHub Stats</h2>
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil19904&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="nikhil19904" /></p>-->
 
 ![](https://github-readme-stats.vercel.app/api?username=nikhil19904&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil19904&theme=radical&hide_border=false)<br/>
