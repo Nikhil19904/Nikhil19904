@@ -10,7 +10,7 @@
 - 💻 I’m currently learning **Data Structues,Full Stack developmet**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
-- 👦 Check out my [Portfoilo Website](https://nikhil19904.github.io/my-portfolio.nikhil)
+- 👦 Check out my [Portfoilo Website]
 - 😄 Interests: Music, Cricket, and Movies
 
 
