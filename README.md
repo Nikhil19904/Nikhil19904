@@ -79,7 +79,7 @@
 
 <h3 align="left">Competitive Programming</h3>
 
- ![LEETCODE](https://img.shields.io/badge/LEETCODE-23E34F26?style=for-the-badge&logo=python&logoColor=ffdd54) ![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+ ![LEETCODE](https://img.shields.io/badge/LEETCODE-23E34F26?style=for-the-badge&logo=python&logoColor=ffdd54) ![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 
 <h2 align="left">🏆 GitHub Trophies</h2>
