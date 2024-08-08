@@ -69,7 +69,7 @@
 
 <h3 align="left">Hosting<h3>
 
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23E34F26.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+ ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23E34F26.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-2300599C?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
  
 <h3 align ="left">Connect with me</h3>
 
