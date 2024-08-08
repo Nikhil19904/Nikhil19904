@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A Passionate Coding Enthusiast from Delhi 
+<h3 align="center">A Passionate Coding Enthusiast from Delhi
+<style>
+	h3{
+		color:blue;
+</style>
+</h3>
 
- ![width="300px" height="500px"](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600) 
- </h3>
+	
+ ![](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600) 
+ 
 
 <h2 align="left">📚 About Me</h2>
 
@@ -16,10 +22,10 @@
 <h3 align="left">Languages</h3>
 
 
-	![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
