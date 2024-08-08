@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👏, I'm Nikhil 🙂</h1>
+<h1 align="center">Hi 👏, I'm Nikhil !</h1>
 <h3 align="center">A Passionate Coding Enthusiast from Delhi</h3>
 	
-<!-- ![#f03c15](https://github.com/user-attachments/assets/c94648b1-1645-4fa0-b8e9-560687967600) -->
+
  ![Developer](https://github.com/user-attachments/assets/a267e6a6-9001-4ba4-9122-26afa1fc2523)
 
  
@@ -27,6 +27,16 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+ <table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="C"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Java"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code></td>
+		</tr>
+	</table>
 
 
 <h3 align="left">Frameworks & Libraries</h3>
