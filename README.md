@@ -73,7 +73,7 @@
  
 <h3 align ="left">Connect with me</h3>
 
- [![GITHUB](https://img.shields.io/badge/-GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil19904)[![GMAIL](https://img.shields.io/badge/-GMAIL-%23323330?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
+ [![GITHUB](https://img.shields.io/badge/-GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil19904) [![GMAIL](https://img.shields.io/badge/-GMAIL-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-%232B90D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-3652872a2)
 
 
