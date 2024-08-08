@@ -73,8 +73,8 @@
  
 <h3 align ="left">Connect with me</h3>
  
-
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-3652872a2) [![GMAIL](https://img.shields.io/badge/-GMAIL-%232B90D9?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
+ [![GMAIL](https://img.shields.io/badge/-GMAIL-%232B90D9?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-%232B90D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-3652872a2)
 
 <h3 align="left">Competitive Programming</h3>
 
