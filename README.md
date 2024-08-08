@@ -7,6 +7,7 @@
  
 
 <h2 align="left">📚 About Me</h2>
+
 - 💻 I’m currently learning **Data Structues,Full Stack developmet**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
@@ -70,10 +71,12 @@
 <h3 align="left">Competitive Programming</h3>
 
 
-## 🏆 GitHub Trophies
+<h2 align="left">🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=nikhil19904&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<h2 align="left"> 🔝 Top Contributed Repo</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
