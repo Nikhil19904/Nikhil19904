@@ -77,7 +77,7 @@
 
 <h3 align="left">Competitive Programming</h3>
 
- [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetocode&logoColor=white)](https://leetcode.com/u/Nikhil_72/) [![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=ggeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/)
+ [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_72/) [![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/)
 
  
 <h2 align="left">🏆 GitHub Trophies</h2>
