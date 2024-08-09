@@ -68,7 +68,7 @@
 
 <h3 align="left">Hosting<h3>
 
- ![Netlify](https://img.shields.io/badge/netlify-%2300599C.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) [![Vercel](https://img.shields.io/badge/vercel-%FF00FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nikhils-projects-a8eb8212) ![GithubPages](https://img.shields.io/badge/github%20pages-D3D3D3?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%232B90D9.svg?style=for-the-badge&logo=heroku&logoColor=white)
+ ![Netlify](https://img.shields.io/badge/netlify-%2300599C.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) [![Vercel](https://img.shields.io/badge/vercel-%FFFF00.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nikhils-projects-a8eb8212) ![GithubPages](https://img.shields.io/badge/github%20pages-D3D3D3?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%232B90D9.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h3 align ="left">Connect with me</h3>
 
