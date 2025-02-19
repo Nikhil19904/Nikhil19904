@@ -7,7 +7,7 @@
 
 <h2 align="left">📚 About Me</h2>
 
-- 💻 I’m currently learning **Data Structues,Full Stack developmet**
+- 💻 I’m currently learning **Data Structues, Full Stack developmet**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
 - 👦 Check out my [Resume](https://drive.google.com/file/d/14LRaZMnA79mhAfEn_e6C5P39oRbXZhox/view?usp=drive_link)
