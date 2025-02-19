@@ -10,7 +10,7 @@
 - 💻 I’m currently learning **Data Structues,Full Stack developmet**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **nc429529@gmail.com**
-- 👦 Check out my [Portfoilo Website](https://github.com/Nikhil19904/my-portfolio.nikhil)
+- 👦 Check out my [Resume](https://drive.google.com/file/d/14LRaZMnA79mhAfEn_e6C5P39oRbXZhox/view?usp=drive_link)
 - 😄 Interests: Music, Cricket, and Movies
 ---
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
