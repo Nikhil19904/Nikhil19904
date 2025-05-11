@@ -80,7 +80,7 @@
  [![GITHUB](https://img.shields.io/badge/-GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil19904)[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-F08080?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikhil-3652872a2)
  [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-%23430098?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_suryavanshi20/) [![GMAIL](https://img.shields.io/badge/-GMAIL-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
 
-<h3 align="left">Competitive Programming</h3>
+<h3 align="left">Coding Practice</h3>
 
  [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_72/) [![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/)
 
