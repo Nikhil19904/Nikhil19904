@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👏, I'm Nikhil !</h1>
-<h3 align="center">A Passionate Coding Enthusiast from Delhi</h3>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Debugging > Coding 😄</h3>
 	
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7eb5a3b0-e6cd-4e71-b99a-2798ea1217b0" alt="ezgif-1-c34c51a2d8" />
@@ -9,11 +9,11 @@
 
 <h2 align="left">📚 About Me</h2>
 
-- 💻 I’m currently learning **Data Structues, Full Stack developmet**
+- 💻 Final-year student gearing up for a career in **Software Engineering & Full Stack Development**
 - 🎓 Doing B.Tech in Information Technology
-- 📧 Reach me at : **nc429529@gmail.com**
-- 👦 Check out my [Resume](https://drive.google.com/file/d/14LRaZMnA79mhAfEn_e6C5P39oRbXZhox/view?usp=drive_link)
-- 😄 Interests : Music, Cricket, and Movies
+- 📧 Reach me at : **chauhannikhil00414@gmail.com**
+- 👦 Check out my [Resume](https://www.dropbox.com/scl/fi/gjh4k5zwmnmql8auoi22y/Nikhil_Resume.pdf?rlkey=a7ejlf6nukuh6oyflmxfcfwou&st=pprfbqmh&dl=0)
+- 😄 I love debugging more than coding...
 ---
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
 
