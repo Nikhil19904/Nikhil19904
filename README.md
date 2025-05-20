@@ -9,7 +9,7 @@
 
 <h2 align="left">📚 About Me</h2>
 
-- 💻 Final-year student gearing up for a career in **Software Engineering & Full Stack Development**
+- 💻 Final-year student passionate about **Software Engineering & Full Stack Development**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **chauhannikhil00414@gmail.com**
 - 👦 Check out my [Resume](https://www.dropbox.com/scl/fi/gjh4k5zwmnmql8auoi22y/Nikhil_Resume.pdf?rlkey=a7ejlf6nukuh6oyflmxfcfwou&st=pprfbqmh&dl=0)
@@ -105,9 +105,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil19904&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil19904&theme=default)
 
-<h2 align="left"> 🔝 Top Contributed Repo</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 
