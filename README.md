@@ -101,7 +101,7 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=nikhil19904&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil19904&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/api?username=nikhil19904&theme=radical&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil19904&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil19904&theme=default)
 
