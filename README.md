@@ -105,7 +105,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil19904&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil19904&theme=default)
 ---
-![Visitor Count](https://profile-counter.glitch.me/{Nikhil19904}/count.svg)
 
 
 
