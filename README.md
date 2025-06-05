@@ -12,7 +12,7 @@
 - 💻 Final-year student passionate about **Software Engineering & Full Stack Development**
 - 🎓 Doing B.Tech in Information Technology
 - 📧 Reach me at : **chauhannikhil00414@gmail.com**
-- 👦 Check out my [Resume](https://www.dropbox.com/scl/fi/lwbq8tr10visfgdxre4oy/Nikhil_FSD_Resume.pdf?rlkey=j8iy8w2ixf05tfic3wmgrz2p0&st=abk8pqc6&dl=0)
+- 👦 Check out my [Resume](https://www.dropbox.com/scl/fi/m4utu93562oftnaqr4ri8/Nikhil_FSD_Resume01.pdf?rlkey=x34xu0wni2wus8ofhjbocx6oy&st=j7egdo09&dl=0)
 - 😄 I love debugging more than coding...
 ---
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
