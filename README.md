@@ -42,8 +42,6 @@
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React.js" title="React.js"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117815401-45884700-b26b-11eb-8d41-3dc1b80371b4.png" alt="Angular.JS" title="Angular.JS"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-bccf4b00-ae58-11eb-97ce-9cfdddb80b83.png" alt="GraphQL" title="GraphQL"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/119497190-c8de6500-bd5b-11eb-912f-8b2df1062092.png" alt="REST API" title="REST API"/></code></td>
     </tr>
   </table>
