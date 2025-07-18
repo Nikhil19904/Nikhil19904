@@ -8,6 +8,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> </p>
 
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" title="Pull Shark - Contributed PRs">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" title="Starstruck - Repos with 16+ Stars">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" title="Galaxy Brain - Accepted Answers in Discussions">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw - Closed Issues Fast">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="YOLO - Direct commits to Main">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" title="Pair Extraordinaire - Co-authored PRs">
+</p>
+
+
 
 
 
