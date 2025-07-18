@@ -9,14 +9,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> </p>
 
 ## 🌐 Open Source Contributions
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> 
+</p>
 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=github)](https://github.com/Nikhil19904)
+## 🌐 Open Source Contributions
 
-- Contributed to **[First Contributions](https://github.com/firstcontributions/first-contributions)** and other beginner-friendly projects.
-- Actively exploring and contributing to projects in **JavaScript, Node.js, and MERN Stack**.
-- Always open to collaborate on **Open Source** and community-driven projects!
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/firstcontributions/first-contributions)
 
- 
+- Contributed to **[First Contributions](https://github.com/firstcontributions/first-contributions)** and other open-source repositories.
+- Collaborating on **JavaScript, Node.js, MERN Stack, and community-driven projects**.
+- Always open to **contribute & collaborate** with developers globally.
+
 <h2 align="left">📚 About Me</h2>
 
 - 💻 Final-year student passionate about **Software Engineering & Full Stack Development**
