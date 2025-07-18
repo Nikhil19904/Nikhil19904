@@ -7,6 +7,15 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> </p>
+
+## 🌐 Open Source Contributions
+
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=github)](https://github.com/Nikhil19904)
+
+- Contributed to **[First Contributions](https://github.com/firstcontributions/first-contributions)** and other beginner-friendly projects.
+- Actively exploring and contributing to projects in **JavaScript, Node.js, and MERN Stack**.
+- Always open to collaborate on **Open Source** and community-driven projects!
+
  
 <h2 align="left">📚 About Me</h2>
 
