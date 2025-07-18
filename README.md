@@ -9,13 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=DD61D8&size=24&center=true&vCenter=true&width=280&height=40&lines=👀+Thanks+for+visiting+my+profile!" alt="Profile Views Animation" />
 </p>
-
 </div>
-
-<h2 align="left">📚 About Me</h2>
-
-
-
 
 <h2 align="left">📚 About Me</h2>
 
