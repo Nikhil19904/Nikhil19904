@@ -6,20 +6,6 @@
   <img src="https://github.com/user-attachments/assets/7eb5a3b0-e6cd-4e71-b99a-2798ea1217b0" alt="ezgif-1-c34c51a2d8" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> </p>
-
-## 🌐 Open Source Contributions
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> 
-</p>
-
-## 🌐 Open Source Contributions
-
-[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/firstcontributions/first-contributions)
-
-- Contributed to **[First Contributions](https://github.com/firstcontributions/first-contributions)** and other open-source repositories.
-- Collaborating on **JavaScript, Node.js, MERN Stack, and community-driven projects**.
-- Always open to **contribute & collaborate** with developers globally.
 
 <h2 align="left">📚 About Me</h2>
 
