@@ -7,10 +7,11 @@
 </div>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nikhil19904&label=👁️ Profile Views&color=0&icon=5&style=for-the-badge&pretty=true" alt="Profile Views Button" />
+  <a href="https://visitcount.itsvg.in/api?id=nikhil19904">
+    <img src="https://visitcount.itsvg.in/api?id=nikhil19904&label=Profile%20Views&color=blue&icon=5&pretty=true&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
+
 
 
 <h2 align="left">📚 About Me</h2>
