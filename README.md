@@ -7,10 +7,9 @@
 </div>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=nikhil19904">
-    <img src="https://visitcount.itsvg.in/api?id=nikhil19904&label=Profile%20Views&color=blue&icon=5&pretty=true&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://profile-counter.glitch.me/nikhil19904/count.svg" alt="Profile Views" />
 </p>
+
 
 
 
