@@ -6,9 +6,10 @@
 </div>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1" alt="Profile Views" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DD61D8&size=24&center=true&vCenter=true&width=280&height=40&lines=👀+Thanks+for+visiting+my+profile!" alt="Profile Views Animation" />
+</p>
+
 </div>
 
 <h2 align="left">📚 About Me</h2>
