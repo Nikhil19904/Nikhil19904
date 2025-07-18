@@ -6,6 +6,12 @@
   <img src="https://github.com/user-attachments/assets/7eb5a3b0-e6cd-4e71-b99a-2798ea1217b0" alt="ezgif-1-c34c51a2d8" />
 </div>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=nikhil19904&label=👁️ Profile Views&color=0&icon=5&style=for-the-badge&pretty=true" alt="Profile Views Button" />
+  </a>
+</p>
+
 
 <h2 align="left">📚 About Me</h2>
 
