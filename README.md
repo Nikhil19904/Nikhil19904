@@ -13,8 +13,8 @@
 
 <h2 align="left">📚 About Me</h2>
 
-- 💻 Final-year student passionate about **Software Engineering & Full Stack Development**
-- 🎓 Doing B.Tech in Information Technology
+- 💻 Passionate about **Software Engineering & Full Stack Development**
+- 🎓 B.Tech in Information Technology
 - 📧 Reach me at : **chauhannikhil00414@gmail.com**
 - 👦 Check out my [Resume](https://drive.google.com/file/d/1eBFHYSI_0uxiNQnb7yFXB9X61YGBqqGF/view?usp=sharing)
 - 😄 I love debugging more than coding...
