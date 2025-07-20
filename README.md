@@ -52,14 +52,7 @@
 </div>
 	
 <h3 align="left">Databases</h3>
-<div >
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-		</tr>
-	</table>
-</div>
+ ![Netlify](https://img.shields.io/badge/netlify-%2300599C.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) [![Vercel](https://img.shields.io/badge/vercel-%FFFF00.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nikhils-projects-a8eb8212) 
 
 <h3 align="left">Tools</h3>
 <div>
