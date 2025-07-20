@@ -86,7 +86,7 @@
 
 <h2 align="left"> 🔝 Top Contributed Repo</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=blue&combine_all_yearly_contributions=true)
 
 <h2 align="left">📊 GitHub Stats</h2>
 
