@@ -82,16 +82,16 @@
  
 <h2 align="left">🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=nikhil19904&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nikhil19904&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="left"> 🔝 Top Contributed Repo</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=nikhil19904&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nikhil19904&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nikhil19904&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nikhil19904&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil19904&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
