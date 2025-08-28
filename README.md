@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👏, I'm Nikhil !</h1>
 
 <h3 align="center">Full Stack Developer | DSA Enthusiast | Debugging > Coding 😄</h3>
+# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
 	
 	
 <div align="center">
