@@ -85,7 +85,7 @@
 
 
 <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
-# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
+# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Nikhil19904/Nikhil19904/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Nikhil19904)
 
 
 ---
