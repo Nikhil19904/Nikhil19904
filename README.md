@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👏, I'm Nikhil !</h1>
 
 <h3 align="center">Full Stack Developer | DSA Enthusiast | Debugging > Coding 😄</h3>
-#[<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Nikhil19904/Nikhil19904/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Nikhil19904)
+
 	
 	
 <div align="center">
@@ -22,6 +22,7 @@
 - 😄 I love debugging more than coding...
 ---
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
+  [Profile Views](https://komarev.com/ghpvc/?username=RNikhil19904&color=blueviolet&style=flat-square&label=Profile+Views)
 
 
 <h2 align="left">🌟 Technologies & Tools:</h2>
