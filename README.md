@@ -79,6 +79,19 @@
 
  [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_19904/) [![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/)
 
+ # <b>My GitHub Stats 📊</b>
+
+<!-- Github Stats © github.com/lowlighter--> 
+# [<img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>](https://github.com/Rishabh2804)
+
+<!-- 3D Contri Graph © https://github.com/yoshi389111--> 
+# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
+
+---
+<br
+
  
 <h2 align="left">🏆 GitHub Trophies</h2>
 
