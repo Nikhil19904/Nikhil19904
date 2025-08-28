@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👏, I'm Nikhil !</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
+
 <h3 align="center">Full Stack Developer | DSA Enthusiast | Debugging > Coding 😄</h3>
 	
 	
