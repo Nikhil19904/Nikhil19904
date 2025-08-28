@@ -23,7 +23,7 @@
 ---
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
   
-![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil19904&color=blueviolet&style=flat-square&label=Profile+Views)
  
 
 
