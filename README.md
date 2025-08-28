@@ -81,8 +81,6 @@
 
  # <b>My GitHub Stats 📊</b>
 
-<!-- Github Stats © github.com/lowlighter--> 
-# [<img alt = "Github Stats" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/github-metrics.svg" width = 500>](https://github.com/Rishabh2804)
 
 <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
 # [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
