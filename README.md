@@ -22,6 +22,8 @@
 - 😄 I love debugging more than coding...
 ---
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
  
 
 
@@ -85,7 +87,6 @@
 <!-- 3D Contri Graph © https://github.com/yoshi389111--> 
 # [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/Rishabh2804)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishabh2804&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 <br
