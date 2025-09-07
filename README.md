@@ -93,7 +93,7 @@
 
 <h3 align="left">Coding Practice</h3>
 
- [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_19904/) [![GEEKSFORGEEKS](https://img.shields.io/badge/HACKERRANK-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/)[![HackerRank](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/chauhannikhil002)
+ [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_19904/) [![GEEKSFORGEEKS](https://img.shields.io/badge/HACKERRANK-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/) [![HackerRank](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/chauhannikhil002)
 
  # <b>My GitHub Stats 📊</b>
 ---
