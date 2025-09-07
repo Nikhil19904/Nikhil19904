@@ -58,11 +58,11 @@
 </div>
 	
 <h3 align="left">Databases</h3>
- <td>
+<!--  <td>
 	 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="MYSQL" title="MYSQL"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="MONGODB" title="MONGODB"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="POSTGRESQL" title="POSTGRESQL"/></code></td>
-</td>
+</td> -->
 
 <h3 align="left">Tools</h3>
 <div>
@@ -96,7 +96,7 @@
  [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_19904/) [![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/) [![HackerRank](https://img.shields.io/badge/HACKERRANK-00FFF0.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/chauhannikhil002)
 
  # <b>My GitHub Stats 📊</b>
----
+ 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=nikhil19904&theme=radical&no-frame=false&no-bg=false&margin-w=4)
