@@ -97,9 +97,6 @@
 
  # <b>My GitHub Stats 📊</b>
 ---
-<br
-
- 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=nikhil19904&theme=radical&no-frame=false&no-bg=false&margin-w=4)
