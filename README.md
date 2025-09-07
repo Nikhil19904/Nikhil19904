@@ -8,9 +8,13 @@
   <img src="https://github.com/user-attachments/assets/7eb5a3b0-e6cd-4e71-b99a-2798ea1217b0" alt="ezgif-1-c34c51a2d8" />
 </div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" /> 
-</p>
+  [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil19904&color=blueviolet&style=flat-square&label=Profile+Views)
+
+<!--<p align="left"> 
+<!--   <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" />  -->
+<!-- </p> -->
 
 
 <h2 align="left">📚 About Me</h2>
