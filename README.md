@@ -11,7 +11,7 @@
 	
 	
 <div align="center">
- <img width="352" height="170" alt="download" src="https://github.com/user-attachments/assets/dc212f3d-cf52-4fc4-95e5-949c1ac9f349" />
+ <img width="392" height="200" alt="download" src="https://github.com/user-attachments/assets/dc212f3d-cf52-4fc4-95e5-949c1ac9f349" />
 </div>
 
 
