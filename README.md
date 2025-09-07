@@ -11,8 +11,11 @@
 	
 	
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7eb5a3b0-e6cd-4e71-b99a-2798ea1217b0" alt="ezgif-1-c34c51a2d8" />
+ <img width="292" height="150" alt="download" src="https://github.com/user-attachments/assets/dc212f3d-cf52-4fc4-95e5-949c1ac9f349" />
 </div>
+
+
+
 
   [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
   
