@@ -25,9 +25,10 @@
 - 👦 Check out my [Resume](https://drive.google.com/file/d/1eBFHYSI_0uxiNQnb7yFXB9X61YGBqqGF/view?usp=sharing)
 - 😄 I love debugging more than coding...
 ---
-  [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
+<!--  [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikhil19904&color=blueviolet&style=flat-square&label=Profile+Views)
+-->
  
 
 
