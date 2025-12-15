@@ -31,7 +31,7 @@
 - 💻 Passionate about **Software Engineering & Full Stack Development**
 - 🎓 B.Tech in Information Technology
 - 📧 Reach me at : **chauhannikhil00414@gmail.com**
-- 👦 Check out my [Resume]()
+- 👦 Check out my [Resume](https://drive.google.com/file/d/1Pn5gWEr3NPsMTG4KhCVKZ32o3MAgPdPr/view?usp=sharing)
 - 😄 I love debugging more than coding...
 ---
 <!--  [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
