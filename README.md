@@ -113,11 +113,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nikhil19904&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 [![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil19904&theme=tokyo-night)]()
 ![Total Commits](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Commits&query=$.total_commits&url=https://api.github-profile-stats.vercel.app/api/user/nikhil19904)
-<p align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" />
-  </a>
-</p>
+
 ---
 
 ### ✍️ Random Dev Quote
