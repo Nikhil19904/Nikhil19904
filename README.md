@@ -49,12 +49,12 @@ public class Nikhil {
 }
 ```
 
-🎓 B.Tech in Information Technology
+🎓 B.Tech in Information Technology<br>
 💻 Full Stack Developer <br>
 🏆 600+ DSA Problems Solved
-🚀 Passionate about building scalable applications
-📚 Exploring Backend Engineering, Cloud & System Design
-⚡ Strong foundation in Data Structures & Algorithms
+🚀 Passionate about building scalable applications<br>
+📚 Exploring Backend Engineering, Cloud & System Design<br>
+⚡ Strong foundation in Data Structures & Algorithms<br>
 
 ---
 
