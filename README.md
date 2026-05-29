@@ -5,13 +5,13 @@ Software Engineer | Full Stack Developer | Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=400%2B+DSA+Problems+Solved;Backend+Developer;Full+Stack+Developer;Java+%7C+Node.js+%7C+React;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=400%2B+DSA+Problems+Solved;Backend+Developer;Full+Stack+Developer;Java+%7C+Node.js+%7C+React;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
 
 <a href="mailto:chauhannikhil00414@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nikhil19904/">
@@ -26,146 +26,89 @@ Software Engineer | Full Stack Developer | Problem Solver
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Passionate Full Stack Developer
+```java
+class NikhilChauhan {
 
-🎓 B.Tech in Information Technology
+    String role = "Software Engineer";
 
-🏆 Solved 400+ DSA Problems on LeetCode & GeeksforGeeks
+    String[] skills = {
+        "Java",
+        "JavaScript",
+        "Node.js",
+        "React",
+        "MySQL"
+    };
 
-🌱 Currently Learning
+    String[] currentlyLearning = {
+        "System Design",
+        "Microservices",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "LLD"
+    };
 
-- System Design
-- Microservices
-- AWS Cloud
-- Docker & Kubernetes
-- Low Level Design (LLD)
+    int dsaProblemsSolved = 400;
 
-💡 Interested In
+}
+```
 
-- Backend Development
-- Scalable Systems
-- Distributed Systems
-- Cloud Technologies
-
-⚡ Fun Fact
-
-> I enjoy debugging more than coding 😄
+- 🎓 B.Tech Information Technology
+- 💻 Full Stack Developer
+- 🏆 Solved 400+ DSA Problems
+- 🌱 Learning System Design & Cloud
+- 🚀 Interested in Backend Engineering
+- ⚡ Love debugging and problem solving
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,js,php,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=java,js,php,mysql" />
 </p>
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,aws"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,aws" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 🏆 Achievements
 
-### 🛒 E-Commerce Platform
-
-Full Stack E-Commerce Application
-
-✅ User Authentication
-
-✅ Shopping Cart
-
-✅ Payment Gateway
-
-✅ Admin Dashboard
-
-✅ Order Management
-
-✅ Responsive UI
-
-**Tech Stack**
-
-React • Node.js • Express • MySQL
+- 🥇 Solved 400+ DSA Problems
+- 🥇 Backend Developer Intern at Real11 Fantasy Sports
+- 🥇 Strong Foundation in Data Structures & Algorithms
+- 🥇 Built Multiple Full Stack Projects
+- 🥇 Passionate About Scalable Software Development
 
 ---
 
-### 📧 OTP Authentication System
-
-Secure Authentication Platform
-
-✅ Email OTP Verification
-
-✅ JWT Authentication
-
-✅ Password Encryption
-
-✅ MySQL Integration
-
----
-
-### 🤖 Resume Analyzer
-
-AI Powered Resume Analyzer
-
-✅ ATS Score
-
-✅ Resume Parsing
-
-✅ Skill Analysis
-
-✅ Improvement Suggestions
-
----
-
-## 🏆 Achievements
-
-🥇 Solved 400+ DSA Problems
-
-🥇 Backend Developer Intern at Real11 Fantasy Sports
-
-🥇 Strong Foundation in Data Structures & Algorithms
-
-🥇 Built Multiple Full Stack Projects
-
-🥇 Passionate About Scalable Software Development
-
----
-
-## 💻 Coding Profiles
+# 💻 Coding Profiles
 
 <p align="center">
 
@@ -185,13 +128,13 @@ AI Powered Resume Analyzer
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nikhil19904&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil19904&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil19904&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil19904&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -203,7 +146,7 @@ AI Powered Resume Analyzer
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -213,27 +156,7 @@ AI Powered Resume Analyzer
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nikhil19904&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 💻 LeetCode Statistics
+# 💡 LeetCode Stats
 
 <p align="center">
 
@@ -243,7 +166,7 @@ AI Powered Resume Analyzer
 
 ---
 
-## 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -269,8 +192,6 @@ AI Powered Resume Analyzer
 
 <div align="center">
 
-### 🚀 "Code. Learn. Build. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=Nikhil19904&style=for-the-badge&color=blueviolet"/>
+### 🚀 Code • Learn • Build • Repeat
 
 </div>
