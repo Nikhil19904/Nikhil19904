@@ -1,120 +1,132 @@
-<h1 align="center">
-  Hi
-   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif"
-         alt="Waving hand animated gif"
-         width="40"/>,
-   I'm <b>Nikhil😄</b>
-</h1> 
+<h1 align="center">Hi 👋, I'm Nikhil Chauhan</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Developer💻;I'm+a+Passionate+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Explorer🕵️‍♂️)](https://git.io/typing-svg)
+<h3 align="center">
+Software Engineer | Full Stack Developer | Problem Solver
+</h3>
 
-	
-	
-<div align="center">
- <img width="392" height="200" alt="download" src="https://github.com/user-attachments/assets/dc212f3d-cf52-4fc4-95e5-949c1ac9f349" />
-</div>
+<p align="center">
+400+ DSA Problems Solved • Java • Node.js • React • MySQL
+</p>
 
+<p align="center">
+<a href="mailto:chauhannikhil00414@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
 
+<a href="https://www.linkedin.com/in/nikhil19904/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+</a>
 
-
-  [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Nikhil19904&color=blueviolet&style=flat-square&label=Profile+Views)
-
-<!--<p align="left"> 
-<!--   <img src="https://komarev.com/ghpvc/?username=Nikhil19904&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil19904" />  -->
-<!-- </p> -->
-
-
-<h2 align="left">📚 About Me</h2>
-
-- 💻 Passionate about **Software Engineering & Full Stack Development**
-- 🎓 B.Tech in Information Technology
-- 📧 Reach me at : **chauhannikhil00414@gmail.com**
-- 👦 Check out my [Resume](https://drive.google.com/file/d/1Pn5gWEr3NPsMTG4KhCVKZ32o3MAgPdPr/view?usp=sharing)
-- 😄 I love debugging more than coding...
----
-<!--  [![](https://visitcount.itsvg.in/api?id=nikhil19904&icon=0&color=1)](https://visitcount.itsvg.in)
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Nikhil19904&color=blueviolet&style=flat-square&label=Profile+Views)
--->
- 
-
-
-<h2 align="left">🌟 Technologies & Tools:</h2>
-<h3 align="left">Languages</h3>
-
-[![Java](https://img.shields.io/badge/-JAVA-%23000000?style=for-the-badge&logo=github&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23430098?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/-PHP-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white)]() 
-[![MYSQL](https://img.shields.io/badge/-SQL-%23430098?style=for-the-badge&logo=STACKOVERFLOW&logoColor=white)]()
-<div/>
-
-</div>
-<h3 align="left">Frameworks & Libraries</h3>
-<p align="left"> 
-<div>
- 
-</div>
-	
-<h3 align="left">Databases</h3>
-<!--  <td>
-	 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="MYSQL" title="MYSQL"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="MONGODB" title="MONGODB"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="POSTGRESQL" title="POSTGRESQL"/></code></td>
-</td> -->
-
-<h3 align="left">Tools</h3>
-<div>
-  <table>
-    <tr>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" title="VS Code"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f2-23950fc4d7ed.png" alt="Postman" title="Postman"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107995-17e7f2f7-755b-4f41-8e27-32fc1d8ff640.png" alt="Docker" title="Docker"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/233377646-7ed8c90b-6e07-44e5-842b-5d73f59297b6.png" alt="NodeMailer" title="NodeMailer"/></code></td>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182446134-4f26a2aa-2235-4ae7-a938-d728f3bfa3c0.png" alt="Google Cloud" title="Google Cloud"/></code></td>
-    </tr>
-  </table>
-</div>
-
-
-<h3 align="left">Hosting<h3>
-
- ![Netlify](https://img.shields.io/badge/netlify-%2300599C.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) [![Vercel](https://img.shields.io/badge/vercel-%FFFF00.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nikhils-projects-a8eb8212) ![GithubPages](https://img.shields.io/badge/github%20pages-D3D3D3?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%232B90D9.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-<h3 align ="left">Connect with me</h3>
-
- [![GITHUB](https://img.shields.io/badge/-GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil19904)[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-F08080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil19904/)
- [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-%23430098?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_suryavanshi20/) [![GMAIL](https://img.shields.io/badge/-GMAIL-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white)](https://@chauhannikhil00414@gmail.com) 
-  [![STACKOVERFLOW](https://img.shields.io/badge/-STACKOVERFLOW-%23430098?style=for-the-badge&logo=STACKOVERFLOW&logoColor=white)](https://stackoverflow.com/users/31368451/nikhil)
-
-<h3 align="left">Coding Practice</h3>
-
- [![LEETCODE](https://img.shields.io/badge/LEETCODE-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_19904/) [![GEEKSFORGEEKS](https://img.shields.io/badge/GEEKSFORGEEKS-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nc429529/) [![HackerRank](https://img.shields.io/badge/HACKERRANK-00FFF0.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/chauhannikhil002)
-
- # <b>My GitHub Stats 📊</b>
- 
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=nikhil19904&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<h2 align="left"> 🔝 Top Contributed Repo</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=nikhil19904&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=nikhil19904&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Nikhil19904&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil19904&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=nikhil19904&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil19904&theme=tokyo-night)]()
-![Total Commits](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Commits&query=$.total_commits&url=https://api.github-profile-stats.vercel.app/api/user/nikhil19904)
+<a href="https://github.com/Nikhil19904">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🚀 About Me
+
+- 🎓 B.Tech Information Technology
+- 💻 Full Stack Developer
+- 🏆 Solved 400+ DSA Problems
+- 🌱 Learning System Design & Cloud
+- 🚀 Interested in Backend Engineering
+- 📫 Reach me: **chauhannikhil00414@gmail.com**
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+# 💼 Featured Projects
+
+## 🛒 E-Commerce Platform
+
+- Authentication & Authorization
+- Shopping Cart
+- Payment Gateway
+- Admin Dashboard
+- Responsive Design
+
+### Tech Used
+
+React • Node.js • Express • MySQL
+
+---
+
+## 📧 OTP Authentication System
+
+- Email OTP Verification
+- JWT Authentication
+- Secure APIs
+- MySQL Integration
+
+---
+
+## 🤖 Resume Analyzer
+
+- Resume Parsing
+- ATS Score
+- Keyword Analysis
+
+---
+
+# 🏆 Achievements
+
+- Solved 400+ Problems on LeetCode & GFG
+- Strong in DSA & Problem Solving
+- Backend Developer Intern at Real11
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil19904&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil19904&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Coding Profiles
+
+- LeetCode: https://leetcode.com/u/Nikhil_19904/
+- GeeksforGeeks: https://www.geeksforgeeks.org/user/nc429529/
+- HackerRank: https://www.hackerrank.com/profile/chauhannikhil002
+
+---
+
+# 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/nikhil19904
+- Email: chauhannikhil00414@gmail.com
