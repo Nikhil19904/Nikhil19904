@@ -51,7 +51,7 @@ public class Nikhil {
 
 🎓 B.Tech in Information Technology<br>
 💻 Full Stack Developer <br>
-🏆 600+ DSA Problems Solved
+🏆 600+ DSA Problems Solved<br>
 🚀 Passionate about building scalable applications<br>
 📚 Exploring Backend Engineering, Cloud & System Design<br>
 ⚡ Strong foundation in Data Structures & Algorithms<br>
